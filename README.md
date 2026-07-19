@@ -1,0 +1,2 @@
+# Bolivia-LULC-change-ecosystem-service-modelling-outputs
+This repository contains spatial outputs from an integrated land-use and ecosystem service modelling workflow for Bolivia. The analysis combines historical land-use change, future LULC projections, and ecosystem service modelling using the InVEST suite.  The primary purpose of this repository is to provide transparent access to all raster outputs
