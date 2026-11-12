@@ -5,10 +5,10 @@ Contents
 The repository includes the following categories of raster datasets:
 
 #1. Land Use / Land Cover (LULC)
-Baseline LULC maps (1986, 2024) derived from MapBiomas
+Baseline LULC maps (1986, 2020) derived from MapBiomas
 Predicted future LULC maps for:
 SSP2 and SSP5 scenarios
-Years 2050 and 2090
+Years 2030 and 2050
 LULC under:
 Business-as-usual (no intervention)
 Intervention scenarios (protected area restoration rules applied)
@@ -30,8 +30,8 @@ Urban Flood Risk Mitigation
 #3. Scenario Structure
 
 All outputs follow a consistent naming convention reflecting:
-- Climate scenario	SSP2, SSP5
-- Time horizon	2050, 2090
+- Climate scenario	SSP2
+- Time horizon	2030, 2050
 - Intervention	With_intervention, Without_intervention
   
 #Notes on Use
@@ -40,4 +40,4 @@ All outputs follow a consistent naming convention reflecting:
 - These outputs are intended for:Ecosystem service assessment, conservation planning and spatial analysis and modelling
   
 #Methods Summary
-LULC projections were generated using a combination of Random Forest suitability modelling, Markov chain transition probabilities, and Cellular Automata spatial allocation. Ecosystem services were modelled using InVEST, incorporating both land-use and climate projections (SSP2 and SSP5 for 2050 and 2090).
+LULC projections were generated using a combination of Random Forest suitability modelling, Markov chain transition probabilities, and Cellular Automata spatial allocation. Ecosystem services were modelled using InVEST, incorporating both land-use and climate projections (SSP2 for 2030 and 2050).
