@@ -7,7 +7,7 @@ The repository includes the following categories of raster datasets:
 #1. Land Use / Land Cover (LULC)
 Baseline LULC maps (1986, 2020) derived from MapBiomas
 Predicted future LULC maps for:
-SSP2 and SSP5 scenarios
+SSP2 scenario
 Years 2030 and 2050
 LULC under:
 Business-as-usual (no intervention)
